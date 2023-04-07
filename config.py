@@ -1,2 +1,0 @@
-# US Census API Key
-api_key = "d0d30673e5345757e073c9395185a1352d438ff7"
