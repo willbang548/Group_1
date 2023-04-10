@@ -28,3 +28,8 @@ Census API
         Notebooks used:
             - Jupyter Notebooks (.ipynb)
             - Python (.py)
+Project files:
+    
+    main.ipynb
+    max_main.ipynb
+    rbruce.ipynb
