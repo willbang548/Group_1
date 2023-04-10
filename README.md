@@ -32,4 +32,4 @@ Project files:
     
     main.ipynb
     max_main.ipynb
-    rbruce.ipynb
+    rbruceq1.ipynb
