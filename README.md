@@ -14,7 +14,7 @@
 
 Census API
 
-[Presentation Link](https://docs.google.com/presentation/d/1wt8qZRVvbEn7wgN4qJGCkCf_NtEyai5mq068J6nYJ4c/edit#slide=id.p)
+[Presentation Link](https://docs.google.com/presentation/d/e/2PACX-1vRJQDMV-p-MsCNpJARKAtXqCWI30PS0gkbiP4XpoFyuRtfI1gtCdCWHGpRb6vKAtS8m0RI7FqmIyL36/pub?start=false&loop=false&delayms=3000)
 
         Modules used:
             - pandas
